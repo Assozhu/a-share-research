@@ -1,0 +1,106 @@
+{
+  "version": "1.0.1-portable",
+  "prepared_on": "2026-10-14",
+  "github_status": "prepared_for_atomic_upload",
+  "cloud_status": "not_deployed",
+  "platform_execution_tests": "not_performed",
+  "files": [
+    {
+      "path": ".agents/skills/a-share-research/SKILL.md",
+      "sha256": "5f3a81441a0767702350b9ec4a1427528582ef24796b5cda97a979e299ce2e8c"
+    },
+    {
+      "path": ".agents/skills/a-share-research/agents/openai.yaml",
+      "sha256": "9bb5367ddd49b373b2077857621338bccecb2c6ab69664e7f335b0a9a91d7d61"
+    },
+    {
+      "path": ".agents/skills/a-share-research/assets/report.md",
+      "sha256": "f30ce41f9875204f406dee6613f6e773f02d91f024db189fafd5fb923df95f5b"
+    },
+    {
+      "path": ".agents/skills/a-share-research/assets/research-memory.json",
+      "sha256": "4cb8122c3e9cd49da57242c0a4b107ad25ad1e3178ed858ccfe77bc8986d2bcb"
+    },
+    {
+      "path": ".agents/skills/a-share-research/assets/research-plan.md",
+      "sha256": "4f65ef929e736893b7bdf557f82b9525cd31fccc32916cedebb1cf7f232b9206"
+    },
+    {
+      "path": ".agents/skills/a-share-research/references/analysis.md",
+      "sha256": "ff00347a2c9e61103cbeaa0c6cd13befa3781822555f501327320e8f07de7e3f"
+    },
+    {
+      "path": ".agents/skills/a-share-research/references/evidence.md",
+      "sha256": "10d34ccfe198b9d4e1ce6e3c3abe13f0c0c5d4a252638989dae298b5b73b6ecf"
+    },
+    {
+      "path": ".agents/skills/a-share-research/references/portability.md",
+      "sha256": "89654675feed1ec4cce1836f0cb6cd61e9920d99f5ffe61aa7a3910fe92db2ad"
+    },
+    {
+      "path": ".agents/skills/a-share-research/references/scoring.md",
+      "sha256": "8887d75cba07536036f7aee0066fa883a8e05169830fc331a3aeae387422bd99"
+    },
+    {
+      "path": ".agents/skills/a-share-research/references/validation.md",
+      "sha256": "2dbe12e568bd4a0d351004a68e3bf78338068651868de216cbea0568b26c8915"
+    },
+    {
+      "path": ".agents/skills/a-share-research/references/workflow.md",
+      "sha256": "cb78ae11ebff053373069593faf75e989fe8188278325301f0260f9008c95f5f"
+    },
+    {
+      "path": ".agents/skills/a-share-research/scripts/research_checks.py",
+      "sha256": "dc953213bb428ff1604e899a113b919bdcb60dc399189242d0728e3a5c91e207"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "ad7c70ecff8f63019d5d01bdad6905efea0dac11aabd78ca29ab8439d000c20c"
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "e42f24f108ec4ff875f2be3bb15bc9f5b7680b10186c577469932a9fb30b77be"
+    },
+    {
+      "path": "README.md",
+      "sha256": "8e6b31cdacf1cf74cc810d672cdb0cb7bda583713a228a5aa8892800c8ca602c"
+    },
+    {
+      "path": "docs/Codex云端设置.txt",
+      "sha256": "f7b52c5dc195d9c0dd67b9af3ee26957d1b23ae5da658de94121f8a95a64eb59"
+    },
+    {
+      "path": "docs/使用说明.md",
+      "sha256": "1b5819f71a275cf1fe01f306a07d30daf9b46d154e81c9f92713b3e8bc677a3c"
+    },
+    {
+      "path": "downloads/a-share-research-native.zip",
+      "sha256": "721f47475b9586a6916c7e7d939bc3d12c86828109a5ddcb03a3d4a633984d3e"
+    },
+    {
+      "path": "mobile/启动研究.txt",
+      "sha256": "a4a31dc57e9a3680f5fdc613036d93691a4dbf5f14faeb6938eabb7e38533ac4"
+    },
+    {
+      "path": "mobile/手机聊天指令.txt",
+      "sha256": "cd3231a9b9985af66f9d6d6a850d4cb7acc426c91cfba57f501818b53e78a5bf"
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "2d817b0cbe3933363e6b0ddf0773f3992bbf17d9f7da356e0500e299053f97c1"
+    },
+    {
+      "path": "scripts/cloud_preflight.py",
+      "sha256": "1d679f11947b19ecd6eb8f886a3b2810d9c59faf0f0bfaea69620f1ba01ac34a"
+    },
+    {
+      "path": "tests/test_research_checks.py",
+      "sha256": "b629df070a7bb6c1ed7acee3a7db485792a9bfee5d4d30654c3294826b85dfc3"
+    }
+  ],
+  "scope": "Portable V1 evidence/scoring plus 17-section output; not the full V1.1 implementation.",
+  "repository_url": "https://github.com/Assozhu/a-share-research",
+  "repository_visibility": "private",
+  "repository_created_verified_on": "2026-10-15",
+  "updated_on": "2026-10-15"
+}

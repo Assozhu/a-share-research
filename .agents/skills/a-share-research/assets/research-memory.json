@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "run_id": null,
+  "ticker": null,
+  "as_of": null,
+  "initial_view": null,
+  "supporting_evidence_ids": [],
+  "claim_ids": [],
+  "risk_assumptions": [],
+  "falsification_conditions": [],
+  "follow_up_indicators": [],
+  "verification_results": [],
+  "previous_run_id": null,
+  "changes_from_previous": []
+}

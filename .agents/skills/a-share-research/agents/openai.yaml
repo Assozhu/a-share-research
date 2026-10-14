@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI金融研究（A股）"
+  short_description: "主动检索A股公司资料，建立证据链，完成财务估值与多空审查"
+  default_prompt: "使用 $a-share-research 研究天孚通信（300394.SZ），投资周期3个月，先制定研究计划，再主动搜集资料并输出可核查报告。"

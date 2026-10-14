@@ -1,0 +1,16 @@
+请将当前GitHub仓库Assozhu/a-share-research准备为A股投研Codex Cloud环境。
+
+读取AGENTS.md及.agents/skills/a-share-research/SKILL.md，确认技能发现路径。
+安装Python 3.10+及requirements.txt，运行：
+python scripts/cloud_preflight.py
+python -B -m unittest discover -s tests -v
+
+按当前环境网络策略配置公开数据源访问，然后运行：
+python scripts/cloud_preflight.py --network
+
+先验证static.cninfo.com.cn；正式研究还可能需要www.cninfo.com.cn、www.szse.cn、disc.static.szse.cn、www.sse.com.cn、www.miit.gov.cn、wap.miit.gov.cn、vip.stock.finance.sina.com.cn、file.finance.sina.com.cn和实际目标公司的官方IR域名。逐项记录成功、失败和未尝试，不把单个PDF联通当完整研究验收。
+
+输出实际安装、测试、网络、Skill发现和文件保存能力的设置报告。检查是否具备搜索、打开原文和数值计算工具；没有的明确列为能力缺口。
+准备完成后让我审阅设置报告并发布环境。不要声称本地检查已经证明云端可用，也不要自动接入付费行情、登录或执行交易。
+
+发布后，在手机Codex选择这个Cloud环境，发送：使用$a-share-research研究全志科技（300458.SZ），投资周期1个月，按17章输出完整报告，首页明确买入态度及原因。
