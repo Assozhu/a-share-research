@@ -1,21 +1,21 @@
 {
   "version": "1.0.1-portable",
   "prepared_on": "2026-10-14",
-  "github_status": "prepared_for_atomic_upload",
+  "github_status": "content_uploaded",
   "cloud_status": "not_deployed",
   "platform_execution_tests": "not_performed",
   "files": [
     {
       "path": ".agents/skills/a-share-research/SKILL.md",
-      "sha256": "5f3a81441a0767702350b9ec4a1427528582ef24796b5cda97a979e299ce2e8c"
+      "sha256": "235722625f2970433da259323d2acdc47cc553a3f77900af71af45e8b7cac61a"
     },
     {
       "path": ".agents/skills/a-share-research/agents/openai.yaml",
-      "sha256": "9bb5367ddd49b373b2077857621338bccecb2c6ab69664e7f335b0a9a91d7d61"
+      "sha256": "b49b6d7775aa1904f09390dfc171d3ee8703b6961cac3e97f65ba8f3e33fe650"
     },
     {
       "path": ".agents/skills/a-share-research/assets/report.md",
-      "sha256": "f30ce41f9875204f406dee6613f6e773f02d91f024db189fafd5fb923df95f5b"
+      "sha256": "7965899bd11e55b584263e8d5d47b3657613c878cf1a163b9250e97afcd8462a"
     },
     {
       "path": ".agents/skills/a-share-research/assets/research-memory.json",
@@ -35,7 +35,7 @@
     },
     {
       "path": ".agents/skills/a-share-research/references/portability.md",
-      "sha256": "89654675feed1ec4cce1836f0cb6cd61e9920d99f5ffe61aa7a3910fe92db2ad"
+      "sha256": "5e466f9b4916413959fe323b68efbd01be4062d6d87eca9c744a6ab6345e3937"
     },
     {
       "path": ".agents/skills/a-share-research/references/scoring.md",
@@ -43,11 +43,11 @@
     },
     {
       "path": ".agents/skills/a-share-research/references/validation.md",
-      "sha256": "2dbe12e568bd4a0d351004a68e3bf78338068651868de216cbea0568b26c8915"
+      "sha256": "879016ad0323dc5ffacd59ecccef77ad7379de33fedabd6f5bd78267fa67c80d"
     },
     {
       "path": ".agents/skills/a-share-research/references/workflow.md",
-      "sha256": "cb78ae11ebff053373069593faf75e989fe8188278325301f0260f9008c95f5f"
+      "sha256": "f55201d64b254a0e31e6fa69391c958467c0c53ef8c6cca682c4a28bd0c56073"
     },
     {
       "path": ".agents/skills/a-share-research/scripts/research_checks.py",
@@ -55,52 +55,54 @@
     },
     {
       "path": ".gitignore",
-      "sha256": "ad7c70ecff8f63019d5d01bdad6905efea0dac11aabd78ca29ab8439d000c20c"
+      "sha256": "503872b7950e15be689bd38fa1cfe6fbdf9e3fbd6665c1358546eb88ce57df57"
     },
     {
       "path": "AGENTS.md",
-      "sha256": "e42f24f108ec4ff875f2be3bb15bc9f5b7680b10186c577469932a9fb30b77be"
+      "sha256": "0a4461f8782575cc904a8e154fa3a4e9b70173100e5cb70a220b45a62e6e3d36"
     },
     {
       "path": "README.md",
-      "sha256": "8e6b31cdacf1cf74cc810d672cdb0cb7bda583713a228a5aa8892800c8ca602c"
+      "sha256": "5a9621d94e94ff6a7254455abb5d89e917b18f068ae21bddd802a646d23fb873"
     },
     {
       "path": "docs/Codex云端设置.txt",
-      "sha256": "f7b52c5dc195d9c0dd67b9af3ee26957d1b23ae5da658de94121f8a95a64eb59"
+      "sha256": "2c5230ba2c58d5b9823a0ff197cfa9359987a3b198eb97b7b9bfde6819104910"
     },
     {
       "path": "docs/使用说明.md",
-      "sha256": "1b5819f71a275cf1fe01f306a07d30daf9b46d154e81c9f92713b3e8bc677a3c"
+      "sha256": "bbe2165b74f20c0c97d0c184042009e2674e9af16620ac02b550bca43d61d957"
     },
     {
       "path": "downloads/a-share-research-native.zip",
-      "sha256": "721f47475b9586a6916c7e7d939bc3d12c86828109a5ddcb03a3d4a633984d3e"
+      "sha256": "0a803c10309ffb19d3099e3944d6ee628895aeb7e05cd9bca9bee548b23e4a9b"
     },
     {
       "path": "mobile/启动研究.txt",
-      "sha256": "a4a31dc57e9a3680f5fdc613036d93691a4dbf5f14faeb6938eabb7e38533ac4"
+      "sha256": "e68960a40325e6d7aba6add4159cd8f3ad7eebfef318f2abedcd95ae24f6aa75"
     },
     {
       "path": "mobile/手机聊天指令.txt",
-      "sha256": "cd3231a9b9985af66f9d6d6a850d4cb7acc426c91cfba57f501818b53e78a5bf"
+      "sha256": "aec97e9e6eb97ee19a9e767b138fa64c4e8c3466ef025cc4d0dda0fc5d58fe71"
     },
     {
       "path": "requirements.txt",
-      "sha256": "2d817b0cbe3933363e6b0ddf0773f3992bbf17d9f7da356e0500e299053f97c1"
+      "sha256": "3ec8922905dc4e3a10c3b46bd7fba023c37ffc309d51c6bed2a13ec3e98177fd"
     },
     {
       "path": "scripts/cloud_preflight.py",
-      "sha256": "1d679f11947b19ecd6eb8f886a3b2810d9c59faf0f0bfaea69620f1ba01ac34a"
+      "sha256": "5ec581eb25208647c6c59a779924d7564438e8b26d31649fa6e235aa1208e926"
     },
     {
       "path": "tests/test_research_checks.py",
-      "sha256": "b629df070a7bb6c1ed7acee3a7db485792a9bfee5d4d30654c3294826b85dfc3"
+      "sha256": "d87b4cea9e8d68bc5ebb78217e26dafa0e0463fbe74b0c66867ed299f73683df"
     }
   ],
   "scope": "Portable V1 evidence/scoring plus 17-section output; not the full V1.1 implementation.",
   "repository_url": "https://github.com/Assozhu/a-share-research",
   "repository_visibility": "private",
   "repository_created_verified_on": "2026-10-15",
-  "updated_on": "2026-10-15"
+  "updated_on": "2026-10-15",
+  "text_encoding": "UTF-8",
+  "text_newlines": "LF"
 }
